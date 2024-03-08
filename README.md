@@ -12,8 +12,8 @@ This project involves a series of practical experiments conducted on the Wavefor
 The experiments were structured to first understand the dataset and then apply the kNN algorithm, followed by an analysis of its performance and limitations. Various strategies were then implemented to overcome these limitations.
 
 ## Installation and Requirements
-- Python 3.x
-- Libraries: [list any specific libraries or frameworks used]
+- Python 3.11
+- Libraries: numpy, pandas, matplotlib, sklearn
 - Dataset: Waveform Dataset (Breiman & Stone, 1988)
 
 ## Usage
